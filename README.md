@@ -12,7 +12,5 @@
 	haarcascade_frontalface_default.xml from: https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 ## How to run the example:
-*  Manually Create the following 2 folders at the same level as python (.py) files 
-  *  dataSet
-  *  recognizer
+*  Manually Create the following 2 folders 'dataSet' and 'recognier'at the same level as python (.py) files.
 *  Run dataSetCreator.py, trainer.py and then detector.py
