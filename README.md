@@ -1,5 +1,5 @@
 # opencv-python3-face-recognition
-#Pre-requisites
+# Pre-requisites
 **Install the following:
     sudo pip3 install opencv-contrib-python
     sudo pip3 install pillow
