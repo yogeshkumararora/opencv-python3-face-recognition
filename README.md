@@ -2,7 +2,7 @@
 	This examples captures the images/faces (dataSetCreator.py), trains them (trainer.py) and the detect/recognize those faces (detector.py).
 # Pre-requisites
 	Python 3.x should be installed. In this example, I have used Python 3.6.
-## Install the following:
+## Install the following additional tools:
     sudo pip3 install opencv-contrib-python
     sudo pip3 install pillow
 ## Referred the following video example
