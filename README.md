@@ -8,7 +8,7 @@
 ## Referred the following video example
 	Got few errors as the the program was using older version of python - https://www.youtube.com/watch?v=4W5M-YaJtIA
 ## Dependency on
-	https://github.com/opencv/opencv/tree/master/data/haarcascades
+	haarcascade_frontalface_default.xml from: https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 ### Manually Created the folders: dataSet and recognizer.
 
