@@ -1,5 +1,7 @@
 # opencv-python3-face-recognition
+	This examples captures the images/faces (dataSetCreator.py), trains them (trainer.py) and the detect/recognize those faces (detector.py).
 # Pre-requisites
+	Python 3.x should be installed. In this example, I have used Python 3.6.
 ## Install the following:
     sudo pip3 install opencv-contrib-python
     sudo pip3 install pillow
