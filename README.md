@@ -13,6 +13,6 @@
 
 ## How to run the example:
 *  Manually Create the following 2 folders at the same level as python (.py) files 
-  * dataSet
-  * recognizer
+  *  dataSet
+  *  recognizer
 *  Run dataSetCreator.py, trainer.py and then detector.py
